@@ -1,1 +1,11 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+torch
+rapidfuzz
+joblib
+seaborn
+missingno
 
